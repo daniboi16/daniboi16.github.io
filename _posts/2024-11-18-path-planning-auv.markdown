@@ -7,7 +7,8 @@ categories: research
 authors: 
   <strong>Tony Jacob</strong>,
   <a href="https://orcid.org/0000-0002-7081-0901">Mingxi Zhou</a>,
-venue: "Oceans'24 Halifax, <i> Student Poster Competiton Winner </i>"
+venue: "Oceans'24 Halifax"
+honer: <font color="red"><strong>(Student Poster Competition Winner)</strong></font> 
 paper: https://ieeexplore.ieee.org/abstract/document/10754038
 poster: https://docs.google.com/presentation/d/1LvlilRVjaBTJqvym03GupgMD-LbXCYv-/edit#slide=id.g2ef8810c952_0_119
 slides: https://docs.google.com/presentation/d/1tjCC4rHmewtasiCqatHsxmPGIl4x2zx37ba_vnKElNM/edit#slide=id.p
