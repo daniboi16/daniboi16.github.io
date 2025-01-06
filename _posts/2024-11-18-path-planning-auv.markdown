@@ -13,4 +13,4 @@ poster: https://docs.google.com/presentation/d/1LvlilRVjaBTJqvym03GupgMD-LbXCYv-
 slides: https://docs.google.com/presentation/d/1tjCC4rHmewtasiCqatHsxmPGIl4x2zx37ba_vnKElNM/edit#slide=id.p
 
 ---
-Non-fixed, non-inertial autonomy for AUV based iceberg circumnavigation
+Non-fixed, non-inertial path planning for AUV based iceberg circumnavigation
