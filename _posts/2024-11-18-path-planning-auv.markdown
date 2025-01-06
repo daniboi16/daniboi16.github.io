@@ -2,7 +2,7 @@
 layout: post
 title:  "Active Sonar-Driven Iceberg Wall Following Path Planner for Autonomous Underwater Vehicles"
 date:   2024-11-18 10:10:10 +00:00
-image: /images/URAI2015_obstacle_avoidance.png
+image: /images/iceberg_mission.jpg
 categories: research
 authors: 
   <strong>Tony Jacob</strong>,
@@ -12,6 +12,6 @@ honer: <font color="red"><strong>(Student Poster Competition Winner)</strong></f
 paper: https://ieeexplore.ieee.org/abstract/document/10754038
 poster: https://docs.google.com/presentation/d/1LvlilRVjaBTJqvym03GupgMD-LbXCYv-/edit#slide=id.g2ef8810c952_0_119
 slides: https://docs.google.com/presentation/d/1tjCC4rHmewtasiCqatHsxmPGIl4x2zx37ba_vnKElNM/edit#slide=id.p
-
+video: https://www.youtube.com/watch?v=SLWVM9sqnJQ
 ---
 Non-fixed, non-inertial path planning for AUV based iceberg circumnavigation
