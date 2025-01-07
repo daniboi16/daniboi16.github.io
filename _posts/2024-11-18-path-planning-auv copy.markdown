@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Active Sonar-Driven Iceberg Wall Following Path Planner for Autonomous Underwater Vehicles"
-date:   2021-05-18 10:10:10 +00:00
+date:   2024-11-18 10:10:10 +00:00
 image: /images/iceberg_mission.jpg
 categories: projects
 authors: 
