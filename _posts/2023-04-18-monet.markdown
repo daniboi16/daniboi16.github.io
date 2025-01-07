@@ -11,6 +11,6 @@ authors:
 
 venue: "Rhode Island School of Design"
 honer: <font color="red"><strong>(Visathon '24 Exhibit)</strong></font> 
-page: https://www.vis-a-thon.com/et-tu-es-monet-and-you-are-monet
+website: https://www.vis-a-thon.com/et-tu-es-monet-and-you-are-monet
 ---
 Referencing the environmental objectives and representation methods of Impressionism, Et Tu es Monet is an interactive screen-based piece that is activated by the motion tracking of bodies, revealing spatial and temporal imagery of Claude Monet’s Haystack series within the audience’s real time environment. The audience becomes the art as they are reflected within the screen leaving traces of pixels with movement and play captured by the camera, distorting the image and creating new iterations of images the more they interact with it. This immersive piece combines art and technology, inviting viewers to engage with pivotal and historical pieces of art history in a contemporary manner.
