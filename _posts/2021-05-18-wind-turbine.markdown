@@ -2,7 +2,7 @@
 layout: post
 title:  "ROS Simulation of a Wind Turbine"
 date:   2021-05-18 10:10:10 +00:00
-image: /images/wind_turbine.gif
+image: /images/wind_turbine.png
 categories: projects
  
 
