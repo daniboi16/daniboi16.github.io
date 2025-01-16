@@ -2,7 +2,7 @@
 layout: post
 title:  "Object and Depth tracking using a Kalman Filter"
 date:   2023-05-13 10:10:10 +00:00
-image: /images/ktrack.png
+image: /images/ktrack.gif
 categories: projects
  
 video: https://www.youtube.com/watch?v=X5T_ohGlzrs
