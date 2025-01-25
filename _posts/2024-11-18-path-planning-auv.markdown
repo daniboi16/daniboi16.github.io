@@ -13,5 +13,6 @@ paper: https://ieeexplore.ieee.org/abstract/document/10754038
 poster: https://docs.google.com/presentation/d/1LvlilRVjaBTJqvym03GupgMD-LbXCYv-/edit#slide=id.g2ef8810c952_0_119
 slides: https://docs.google.com/presentation/d/1tjCC4rHmewtasiCqatHsxmPGIl4x2zx37ba_vnKElNM/edit#slide=id.p
 video: https://www.youtube.com/watch?v=SLWVM9sqnJQ
+thesis: https://www.proquest.com/docview/3156038462?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses
 ---
 Non-fixed, non-inertial path planning for AUV based iceberg circumnavigation

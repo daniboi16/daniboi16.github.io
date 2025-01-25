@@ -8,4 +8,4 @@ categories: projects
 video: https://www.youtube.com/watch?v=X5T_ohGlzrs
 
 ---
-Did this project for my Probablistic Robotics class project. Developed ROS nodes for YOLO-v5 and MiDAS to track the (x,y,z) of a vehicle in motion in Forza Horizon 4.
+Did this project for my Probablistic Robotics class. Developed ROS nodes for YOLO-v5 and MiDAS to track the (x,y,z) of a vehicle in motion using a Kalman Filter in Forza Horizon 4.
