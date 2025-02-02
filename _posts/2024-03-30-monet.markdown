@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Et tu est Monet"
-date:   2023-05-18 10:10:10 +00:00
+date:   2024-03-30 10:10:10 +00:00
 image: /images/monet.gif
 categories: art
 authors: 
