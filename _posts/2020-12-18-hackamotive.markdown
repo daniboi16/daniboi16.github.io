@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "ADAS System for Pre-Crash Safety"
-date:   2020-12-18 10:10:10 +00:00
+title:  "Reverse Engineering IC from Die - 555 Timer"
+date:   2021-08-17 10:10:10 +00:00
 image: /images/hackamotive.gif
 categories: projects
 authors: 
