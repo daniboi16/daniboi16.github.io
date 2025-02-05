@@ -34,16 +34,15 @@
               <h1>
                 Daniel Joseph Alapat
               </h1>
-               <p>I am an MSc student in the Faculty of Electrical Engineering, Mathematics and Computer Science, at Delft University of Technology. I am pursuing my master's degree in Computer and Embedded Systems, focusing on embedded software. I am interested in the different aspects of embedded systems from the compiler and deployment to the algorithms and security aspects of it.
-              <p>
-                Before that, I worked in several automotive startups in Bangalore, India. I was working as an embedded software developer for the development of Battery Management Systems (BMS) for electric scooters. I got my Bachelor's degree in Electrical and Electronics Engineering from Vellore Institute of Technology, Vellore. 
+               <p>I am an MSc student in the Faculty of Electrical Engineering, Mathematics and Computer Science, at Delft University of Technology. I am pursuing my master's degree in Computer and Embedded Systems, focusing on embedded software. 
+                Before that, I worked in several automotive startups in Bangalore, India. I was working as an embedded software developer for the development of Battery Management Systems (BMS) for electric scooters.
               </p>
               <p style="text-align:center">
                 <a href="https://drive.google.com/file/d/1xwA4LJEamMoWJWqivD0-Db6LcsK5mM3J/view?usp=drive_link"> CV </a> &nbsp;/&nbsp;
-                <a href="https://github.com/dani_boi16"> GitHub </a> &nbsp;/&nbsp;
-                <a href="https://www.linkedin.com/in/danielalapat"> LinkedIn </a> &nbsp;/&nbsp;
+                <a href="https://github.com/daniboi16"> GitHub </a> &nbsp;/&nbsp;
+                <a href="https://www.linkedin.com/in/daniel-alapat"> LinkedIn </a> &nbsp;/&nbsp;
                 <a href="https://medium.com/@danielalapat"> Medium </a> &nbsp;/&nbsp;
-                <a href="https://www.youtube.com/@daniel_joseph16"> YouTube </a> &nbsp;/&nbsp;
+                <a href="https://www.youtube.com/@daniel_joseph16"> YouTube </a> &nbsp;;
           
               </p>
             </td>
@@ -53,78 +52,11 @@
           </tr>
         </table>
 
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr>
-            <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2>Research</h2>
-              <!-- <p>
-                I'm interested in computer vision, machine learning, optimization, graphics and robotics.
-              </p> -->
-            </td>
-          </tr>
-        </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 
-          {% for post in site.posts %}
-          {% for cat in post.categories %}
-          {% if cat == 'research' %}
-          <tr>
-            <td style="padding:2.5%;width:50%;vertical-align:middle;min-width:120px">
-              <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-            </td>
-            <td style="padding:2.5%;width:75%;vertical-align:middle">
-              <h3>{{post.title}}</h3>
-              <br>
-              {{post.authors}}
-              
-              <br>
-              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }} &nbsp; <em>{{post.honer}}</em>
-              <br>
-              {% if post.arxiv %}
-              <a href="{{post.arxiv}}">arxiv</a> /
-              {% endif %}
-              {% if post.paper %}
-              <a href="{{post.paper}}">paper</a> /
-              {% endif %}              
-              {% if post.video %}
-              <a href="{{post.video}}">video</a> /
-              {% endif %}
-              {% if post.code %}
-              <a href="{{post.code}}">code</a> /
-              {% endif %}
-              {% if post.poster %}
-              <a href="{{post.poster}}">poster</a> /
-              {% endif %}
-              {% if post.slides %}
-              <a href="{{post.slides}}">slides</a> /
-              {% endif %}
-              {% if post.website %}
-              <a href="{{post.website}}">website</a> /
-              {% endif %}
-              {% if post.youtube %}
-              <a href="{{post.youtube}}">youtube</a> /
-              {% endif %}
-              {% if post.thesis %}
-              <a href="{{post.thesis}}">thesis</a> /
-              {% endif %}
-              <p></p>
-              {{ post.excerpt }}
-            </td>
-          </tr>
-          {% endif %}
-          {% endfor %}
-          {% endfor %}
-        </table>
-        <br>
-        <br>
-        <br>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Projects</h2>
-              <!-- <p>
-                I'm interested in computer vision, machine learning, optimization, graphics and robotics.
-              </p> -->
             </td>
           </tr>
         </table>
