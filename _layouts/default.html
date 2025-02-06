@@ -67,15 +67,15 @@
           {% if cat == 'projects' %}
           <tr>
             <td style="padding:2.5%;width:50%;vertical-align:middle;min-width:120px">
-              <!-- <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" /> -->
+              <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
             <td style="padding:2.5%;width:auto;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>
-              <!-- {{post.authors}} -->
+              {{post.authors}}
               
               <br>
-              <!-- <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }} &nbsp; <em>{{post.honer}}</em> -->
+              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }} &nbsp; <em>{{post.honer}}</em>
               <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
@@ -115,7 +115,7 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2>Art + Media</h2>
+              <h2>Art</h2>
               <!-- <p>
                 I'm interested in computer vision, machine learning, optimization, graphics and robotics.
               </p> -->
