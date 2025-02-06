@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Reverse Engineering IC from Die - 555 Timer"
+date:   2021-08-17 10:10:10 +00:00
+image: im/ic_die.png
+categories: projects
+authors: 
+  <strong>Daniel Alapat</strong>
+video: https://www.youtube.com/watch?v=xbyA5gjaJtY
+blog: https://danielalapat.hashnode.dev/ic-die 
+---
+Reversed engineered the transistors from an IC Die of a 555 Timer
