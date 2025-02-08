@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "STM32 Drivers"
+date:   2021-02-01 10:10:10 +00:00
+image: im/drivers.png
+categories: projects
+ 
+wesite: https://github.com/daniboi16/STM32-F4
+
+---
+Wrote register level, clean, well-documented driver code according to MISRA C standards for the different peripherals present on the STM32 F407 discovery board. Also contributed parts of this code to a university-associated GitHub repository.

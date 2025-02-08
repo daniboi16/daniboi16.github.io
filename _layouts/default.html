@@ -71,11 +71,11 @@
             </td>
             <td style="padding:2.5%;width:auto;vertical-align:middle">
               <h3>{{post.title}}</h3>
-              <br>
+              <!-- <br>
               {{post.authors}}
               
-              <br>
-              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }} &nbsp; <em>{{post.honer}}</em>
+              <br> -->
+              <em>{{post.venue}}</em>, {{ post.date | date: "%Y-%B" }} &nbsp; <em>{{post.honer}}</em>
               <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
