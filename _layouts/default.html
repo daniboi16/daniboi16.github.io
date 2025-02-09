@@ -34,8 +34,9 @@
               <h1>
                 Daniel Joseph Alapat
               </h1>
-               <p>I am an MSc student in the Faculty of Electrical Engineering, Mathematics and Computer Science, at Delft University of Technology. I am pursuing my master's degree in Computer and Embedded Systems, focusing on embedded software. 
-                Before that, I worked in several automotive startups in Bangalore, India. I was working as an embedded software developer for the development of Battery Management Systems (BMS) for electric scooters.
+               <p>I am an MSc student at Delft University of Technology, pursuing my master's degree in Computer and Embedded Systems, focusing on embedded software. 
+                <br> 
+                I am interested in all things embedded, from optimizing code for resource-limited hardware to finding vulnerabilities in embedded systems. 
               </p>
               <p style="text-align:center">
                 <a href="https://drive.google.com/file/d/1xwA4LJEamMoWJWqivD0-Db6LcsK5mM3J/view?usp=drive_link"> CV </a> &nbsp;/&nbsp;
@@ -120,7 +121,7 @@
             <td style="padding:2.5%;width:auto;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>
-              <em>{{post.venue}}</em>, {{ post.date | date: "%Y-%B" }} &nbsp; <em>{{post.honer}}</em>
+              {{ post.date | date: "%Y-%B" }} &nbsp; <em>{{post.honer}}</em>
               <br>
               {% if post.video %}
               <a href="{{post.video}}">video</a> /
@@ -174,7 +175,7 @@
               {{post.authors}}
               
               <br>
-              <em>{{post.venue}}</em>, {{ post.date | date: "%Y-%B" }} &nbsp; <em>{{post.honer}}</em>
+              {{ post.date | date: "%Y-%B" }} &nbsp; <em>{{post.honer}}</em>
               <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /

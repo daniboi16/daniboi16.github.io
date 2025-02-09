@@ -8,6 +8,7 @@ authors:
   <strong>Daniel Joseph Alapat</strong>,
   Malavika Venu Menon, 
   Sharmila Ashok
+
 paper: https://jbpe.sums.ac.ir/article_48811.html
 ---
 A review paper on the different neural networks used in the detection of pneumonia in chest x-rays published in the Journal of Biomedical Physics and Engineering.
