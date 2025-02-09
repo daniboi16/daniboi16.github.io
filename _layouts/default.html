@@ -174,7 +174,7 @@
               {{post.authors}}
               
               <br>
-              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }} &nbsp; <em>{{post.honer}}</em>
+              <em>{{post.venue}}</em>, {{ post.date | date: "%Y-%B" }} &nbsp; <em>{{post.honer}}</em>
               <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
