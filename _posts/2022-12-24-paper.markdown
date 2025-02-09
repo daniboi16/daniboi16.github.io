@@ -5,7 +5,7 @@ date:   2022-12-24 10:10:10 +00:00
 image: /images/tictactoe.gif
 categories: paper
 authors: 
-  <strong>Daniel Joseph Alapat<7/strong>,
+  <strong>Daniel Joseph Alapat</strong>,
   Malavika Venu Menon, 
   Sharmila Ashok
 paper: https://jbpe.sums.ac.ir/article_48811.html
