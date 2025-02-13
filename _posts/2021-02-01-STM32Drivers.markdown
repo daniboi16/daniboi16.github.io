@@ -2,7 +2,7 @@
 layout: post
 title:  "STM32 Drivers"
 date:   2021-02-01 10:10:10 +00:00
-image: im/images/drivers.png
+image: /images/drivers.png
 categories: projects
  
 code: https://github.com/daniboi16/STM32-F4

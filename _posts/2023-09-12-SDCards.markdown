@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SD CARD & FAT32 Lecture"
+title:  "SD CARD & FAT32 Tutorial"
 date:   2023-09-12 10:10:10 +00:00
 image: im/SDCARD.jpg
 categories: projects

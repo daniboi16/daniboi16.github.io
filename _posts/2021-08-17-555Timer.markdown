@@ -5,6 +5,6 @@ date:   2021-08-17 10:10:10 +00:00
 image: /images/ic_die.png
 categories: projects
 video: https://www.youtube.com/watch?v=xbyA5gjaJtY
-blog: https://danielalapat.hashnode.dev/ic-die 
+website: https://danielalapat.hashnode.dev/ic-die 
 ---
 Reversed engineered all the transistors from an IC Die of a 555 Timer
