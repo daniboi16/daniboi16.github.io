@@ -2,7 +2,7 @@
 layout: post
 title:  "The Ultimate Speed Limit"
 date:   2016-12-23 10:10:10 +00:00
-image: im/relativity.png
+image: /images/relativity.png
 categories: paper
 authors: 
   Daniel Joseph Alapat

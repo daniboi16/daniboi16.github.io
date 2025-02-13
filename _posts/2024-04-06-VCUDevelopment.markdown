@@ -2,9 +2,9 @@
 layout: post
 title:  "VCU Development"
 date:   2022-03-06 10:10:10 +00:00
-image: im/emobattery.jpg
+image: /images/pravaig.jpg
 categories: work
-authors: <strong>Pravaig Dynamics</strong>
+authors: Pravaig Dynamics
 video: https://www.linkedin.com/posts/emoenergy_zenpac-stayemo-activity-7224301669457481728-O2gq?utm_source=share&utm_medium=member_desktop&rcm=ACoAACD3ZacBCUdG6Uri013klh7J-f1R8lnFy3Y
 website: https://www.linkedin.com/company/pravaig/
 ---

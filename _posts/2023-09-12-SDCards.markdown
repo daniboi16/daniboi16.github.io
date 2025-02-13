@@ -2,7 +2,7 @@
 layout: post
 title:  "SD CARD & FAT32 Tutorial"
 date:   2023-09-12 10:10:10 +00:00
-image: im/SDCARD.jpg
+image: /images/SDCARD.jpg
 categories: projects
 
 video: https://youtu.be/Au8DSLQw8uQ?si=6d-TpOFQsDx6yA7J
