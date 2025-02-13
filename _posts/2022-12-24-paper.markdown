@@ -2,7 +2,7 @@
 layout: post
 title:  "A Review on Detection of Pneumonia in Chest X-ray Images Using Neural Networks"
 date:   2022-12-24 10:10:10 +00:00
-image: /images/tictactoe.gif
+image: /images/paperpic.jpg
 categories: paper
 authors: 
   <strong>Daniel Joseph Alapat</strong>,
