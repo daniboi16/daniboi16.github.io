@@ -1,3 +1,3 @@
-for file in images/*.{jpg,png}; do
-    [ ! -f "tn/$file" ] && magick "$file"  -thumbnail 360x202 "tn/$file"
+for file in images/drivers.png; do
+    [ ! -f "tn/$file" ] && magick "$file"  -thumbnail 360x200 "tn/$file"
 done
