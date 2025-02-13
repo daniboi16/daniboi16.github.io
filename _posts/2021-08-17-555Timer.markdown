@@ -7,4 +7,4 @@ categories: projects
 video: https://www.youtube.com/watch?v=xbyA5gjaJtY
 website: https://danielalapat.hashnode.dev/ic-die 
 ---
-Reversed engineered all the transistors from an IC Die of a 555 Timer
+Reversed engineered all the transistors from an IC Die image of a 555 Timer on a live stream.

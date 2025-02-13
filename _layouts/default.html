@@ -69,7 +69,7 @@
           {% if cat == 'projects' %}
           <tr>
             <td style="padding:2.5%;width:50%;vertical-align:middle;min-width:120px">
-              <img src="/im{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+              <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
             <td style="padding:2.5%;width:auto;vertical-align:middle">
               <h3>{{post.title}}</h3>
@@ -166,9 +166,7 @@
           {% for cat in post.categories %}
           {% if cat == 'paper' %}
           <tr>
-            <td style="padding:2.5%;width:50%;vertical-align:middle;min-width:120px">
-              <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-            </td>
+            
             <td style="padding:2.5%;width:auto;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>
